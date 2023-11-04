@@ -1,0 +1,1 @@
+#Tenía problemas de docker en mi maquina, no me cargaba y no pude correr la imagen.
